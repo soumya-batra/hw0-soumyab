@@ -4,9 +4,9 @@
 	<artifactId>hw0-soumyab</artifactId>
 	<version>0.0.1</version>
 	<scm>
-		<connection>scm:git:git@github.com//:github.com/soumya-batra/hw0-soumyab.git</connection>
-		<developerConnection>scm:git:git@github.com//:github.com/soumya-batra/hw0-soumyab.git</developerConnection>
-		<url>scm:git:git@github.com//:github.com/soumya-batra/hw0-soumyab.git</url>
+		<connection>scm:git:ssh://git@github.com:github.com/soumya-batra/hw0-soumyab.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com:github.com/soumya-batra/hw0-soumyab.git</developerConnection>
+		<url>scm:git:ssh://git@github.com:github.com/soumya-batra/hw0-soumyab.git</url>
 	</scm>
 	<repositories>
 		<repository>
